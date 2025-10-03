@@ -1,0 +1,8 @@
+// casos de erro   let 3nome = 'teste0'
+let nome3 = 'teste1'
+let $nome = 'teste2'
+let _nome = 'teste3'
+// casos de erro   let @nome = 'teste4'
+// casos de erro   let !nome = 'teste5'
+let Nome = 'teste'
+let seuNome = 'teste'

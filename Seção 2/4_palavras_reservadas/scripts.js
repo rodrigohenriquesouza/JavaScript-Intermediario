@@ -1,0 +1,1 @@
+/* Aula sobre palavras reservadas para definir uma variável palavra que a linguagem usa não posso usar para definiar uma variável. Por exemplo let const function debugger if else case break switch */
