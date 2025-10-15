@@ -1,5 +1,7 @@
-function ola() {
-    console.log('Hello, World!')
+function soma(x, y, z) {
+    return x + y + z
+    
 }
 
-ola()
+let resultado = soma(5,10,15)
+console.log(resultado)
