@@ -6,3 +6,4 @@ console.log(idades)
 
 idades.unshift(19, 22, 23)
 console.log(idades)
+
