@@ -6,11 +6,10 @@
 
 */
 
-let nomes = ['JDM', 'Valter Walker', 'Mauricio', 'Rodrigo', 'Jesus']
+let casal = ['Leticia', 'Rodrigo', 'Matheus', 'Melissa']
 
-for(let i = 0; i < nomes.length; i++) {
-
-        if(nomes[i] === 'Rodrigo') {
-            console.log("Nome dentro do ARRAY: " + nomes[i])
-        }
+if(casal.includes('Rodrigo', 'Leticia')) {
+    console.log('BELO CASAL')
+} else {
+    console.log('Casal não encontrado')
 }
